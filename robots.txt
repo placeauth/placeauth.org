@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://placeauth.org/sitemap.xml
