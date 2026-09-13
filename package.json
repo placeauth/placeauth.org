@@ -1,5 +1,5 @@
 {
-  "name": "placeauth-worker",
+  "name": "placeauth-org",
   "private": true,
   "devDependencies": {
     "wrangler": "^4.0.0"
