@@ -1,5 +1,5 @@
 window.PLACEAUTH_CONFIG = {
-  siteName: "PlaceAuth",
+  siteName: "PlaceAuth Foundation",
   domain: "https://placeauth.org",
   githubOrganization: "https://github.com/placeauth",
   primaryRepository: "https://github.com/placeauth/spatial-policy-protocol",
