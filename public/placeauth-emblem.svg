@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">PlaceAuth emblem</title>
+  <desc id="desc">A deep navy spatial badge with a white location pin and cyan contour lines.</desc>
   <path d="M256 24 424 121v194L256 488 88 315V121Z" fill="#061625" stroke="#0D2B42" stroke-width="18" stroke-linejoin="round"/>
   <path d="M142 360c38-56 89-84 151-84 44 0 82 14 116 42" fill="none" stroke="#0E7490" stroke-width="22" stroke-linecap="round"/>
   <path d="M116 402c48-67 110-101 185-101 45 0 81 11 114 31" fill="none" stroke="#20E6C8" stroke-width="18" stroke-linecap="round"/>
